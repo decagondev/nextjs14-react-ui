@@ -15,7 +15,7 @@ export const Navbar = () => {
                 </Button>
                 <Button size="sm" asChild>
                     <Link href="/sign-up">
-                        Get Kanbanify for free
+                        Get Kanbaner for free
                     </Link>
                 </Button>
                 </div>

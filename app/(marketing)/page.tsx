@@ -32,18 +32,18 @@ const MarketingPage = () => {
                     No 1 task management
                 </div>
                 <h1 className="text-3xl md:text-6xl text-center text-neutral-800 mb-6">
-                    Kanbanify helps your team move
+                    Kanbaner helps your team move
                 </h1>
-                <div className="text-3xl md:text-6xl bg-gradient-to-r from-fuchsia-600 to-pink-600 text-white rounded-md px-4 p-3 w-fit">
-                    work forward.
+                <div className="text-3xl md:text-6xl bg-gradient-to-r from-purple-600 to-blue-600 text-white rounded-md px-4 p-3 w-fit">
+                    work onward.
                 </div>
             </div>
             <div className={cn("text-sm md:text-xl text-neutral-400 mt-4 max-w-xs md:max-w-2xl text-center mx-auto", textFont.className)}>
-                Colaborate, manage projects, and reach new productivity peaks. From high rises to home office, the way your team works is unique - accomplish it all with Kanbanify.
+                Colaborate, manage projects, and reach new productivity peaks. From office blocks to home office, the way your team works is unique - accomplish it all with Kanbaner.
             </div>
             <Button className="mt-6" size="lg" asChild>
                 <Link href="">
-                    Get Kanbanify For Free
+                    Get Kanbaner for Free
                 </Link>
             </Button>
         </div>
