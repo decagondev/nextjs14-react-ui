@@ -7,7 +7,6 @@ import { Sidebar } from "./sidebar";
 import { Button } from "@/components/ui/button";
 import { Menu } from "lucide-react";
 
-
 export const MobileSidebar = () => {
     const pathName = usePathname();
     const [isMounted, setIsMounted] = useState<boolean>(false);
